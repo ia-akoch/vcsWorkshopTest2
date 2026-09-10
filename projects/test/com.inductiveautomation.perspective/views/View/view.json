@@ -15,7 +15,7 @@
           "y": 245
         },
         "props": {
-          "text": "Hello!"
+          "text": "Welcome to my new feature!"
         },
         "type": "ia.display.label"
       }
